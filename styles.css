@@ -525,6 +525,7 @@ footer {
   }
   .navBottom {
     flex-wrap: wrap;
+    padding: 20px 0px;
   }
   .menuItem {
     margin: 5px;
